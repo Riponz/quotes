@@ -169,4 +169,9 @@ button:hover {
   h3 {
     font-size: 2rem;
     }
+  .quoteSection__content{
+  font-size: 0.9rem;
+  }
+  .quoteSection__author{
+    font-size: 0.8rem;}
 }
