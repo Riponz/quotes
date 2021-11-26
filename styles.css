@@ -176,8 +176,11 @@ button:hover {
     font-size: 0.8rem;}
   ul li {
 
-  font-size: 0.9rem;}
+  font-size: 0.9rem;
+    }
+  
   button {
 
-  font-size: 0.9rem;}
+  font-size: 0.9rem;
+    }
 }
