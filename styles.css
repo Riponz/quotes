@@ -167,12 +167,14 @@ button:hover {
     margin-bottom: 20px;
   }
   h3 {
-    font-size: 1rem;
+    font-size: 1.7rem;
     }
   .quoteSection__content{
   font-size: 0.9rem;
+    padding:5px;
   }
   .quoteSection__author{
+    margin right 0px
     font-size: 0.8rem;}
   ul li {
 
@@ -183,5 +185,8 @@ button:hover {
   button {
 
   font-size: 0.9rem;
+    }
+  button{
+    padding:10px;
     }
 }
