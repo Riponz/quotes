@@ -166,6 +166,10 @@ button:hover {
   ul {
     margin-bottom: 20px;
   }
+  .container {
+padding:10px;
+  width: 85%;
+    }
   h3 {
     font-size: 1.7rem;
     }
