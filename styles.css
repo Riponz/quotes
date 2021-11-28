@@ -158,6 +158,16 @@ button:hover {
 }
 
 @media only screen and (max-width: 850px) {
+  .container {
+    width: 85%;
+  }
+
+  .quoteSection__content {
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
   .container__buttonSection {
     flex-direction: column;
     justify-content: space-between;
@@ -166,30 +176,4 @@ button:hover {
   ul {
     margin-bottom: 20px;
   }
-  .container {
-  width: 85%;
-    }
-  h3 {
-    font-size: 1.7rem;
-    }
-  .quoteSection__content{
-  font-size: 0.9rem;
-    padding:5px;
-  }
-  .quoteSection__author{
-    margin right 0px
-    font-size: 0.8rem;}
-  ul li {
-
-  font-size: 0.9rem;
-    padding: 10px;
-    }
-  
-  button {
-
-  font-size: 0.9rem;
-    }
-  button{
-    padding:10px;
-    }
 }
