@@ -162,10 +162,12 @@ button:hover {
     width: 85%;
   }
 
+.container__quoteSection {
+    padding: 8px;
+  }
+
   .quoteSection__content {
-    padding: 10px;
-    text-align: center;
-    font-size: 1.5rem;
+    padding: 0px;
   }
 
   .container__buttonSection {
